@@ -11,5 +11,5 @@ def input_to_index(num)
    return num.to_i - 1 
 end 
 
-def move(board, index, character = "X")
+def move(board, index, character)
 end 
